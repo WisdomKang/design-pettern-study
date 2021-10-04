@@ -1,7 +1,7 @@
-package strategy_pattern.code.duck;
+package strategy_pattern.code.java.duck;
 
-import strategy_pattern.code.behavior.FlyBehavior;
-import strategy_pattern.code.behavior.QuackBehavior;
+import strategy_pattern.code.java.behavior.FlyBehavior;
+import strategy_pattern.code.java.behavior.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;

@@ -1,4 +1,4 @@
-package strategy_pattern.code.duck;
+package strategy_pattern.code.java.duck;
 
 public class ModelDuck extends Duck {
 
